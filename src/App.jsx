@@ -8,7 +8,7 @@ function App() {
 
   return (
     <>
-      <h1>A web site to learn hostig</h1>
+      <h1>A web site to learn hostig...</h1>
     </>
   )
 }
